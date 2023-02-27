@@ -1,0 +1,12 @@
+{
+    "!RJB-%N{6NS=Ex2HB+4-": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP//AAAAAAD/7u7/AAAA8O7u7u4PAADv7u7u7v4AAB/uEe4R/gAA7+HuHuHuDwDv7u4e7u4PAO/h7h7h7g8AH+4R7hHuDwDw7u7uHu4PAADv7u7u7g8AAPDv7u7uDwAAAPDu7v4AAAAAAP//DwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "badguy2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
